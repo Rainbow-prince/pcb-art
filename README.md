@@ -1,4 +1,4 @@
-# PCB Starry Sky / PCB 星空画
+# PCB Art
 
 灵感来源：[OSHWhub - 星空PCB画](https://oshwhub.com/sytnocui/star-pcb-drawing)
 
