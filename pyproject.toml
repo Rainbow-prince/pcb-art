@@ -1,0 +1,12 @@
+[project]
+name = "pcb-art"
+version = "0.1.0"
+description = "将图片转化为 PCB 各层光绘文件，输出立创 EDA 可直接打开的 JSON"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "opencv-python>=4.0",
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+    "jupyter>=1.0",
+]
